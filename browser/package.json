@@ -87,7 +87,7 @@
     "redux-mock-store": "^1.5.1",
     "redux-thunk": "^2.2.0",
     "reselect": "^3.0.1",
-    "superagent": "^3.8.2",
+    "superagent": "^10.2.2",
     "superagent-es6-promise": "^1.0.0",
     "webpack": "^3.10.0"
   }
